@@ -1,0 +1,8 @@
+OPENAI_API_KEY = ""
+OPENAI_API_KEY = ""
+SPEECH_KEY = ""
+SVC_REG = ""
+DB_USR = ""
+DB_PWD = ""
+DB_HOST = ""
+BLOB_CS = ""
